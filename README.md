@@ -1,4 +1,4 @@
-# ChordsClassification
+# GuitarChordsClassification
 
 Python version : 3.7.0  
 
@@ -13,5 +13,4 @@ Python version : 3.7.0
 ```python inference.py```
 
 
-# ChordsClassification
-# GuitarChordsClassification
+
